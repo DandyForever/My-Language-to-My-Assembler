@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1511128898 source:d:\Даня\olymp\Информатика\my_language_to_asm\functions.cpp
+	"Tree_t.h"
+
+1511118758 d:\Даня\olymp\Информатика\my_language_to_asm\tree_t.h
+	<stdio.h>
+	<cstdlib>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<iostream>
+
+1513142372 source:d:\Даня\olymp\Информатика\my_language_to_asm\main.cpp
+	<iostream>
+	"asm code creater.h"
+
+1513142746 d:\Даня\olymp\Информатика\my_language_to_asm\asm code creater.h
+	"Tree_t.h"
+	"commands.h"
+	<assert.h>
+
+1513136538 d:\Даня\olymp\Информатика\my_language_to_asm\commands.h
+
